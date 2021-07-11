@@ -29,12 +29,12 @@ module.exports = {
         title: '基础组件',
         items: [
           {
-            path: 'demo-button',
-            title: 'DemoButton 按钮',
-          },
-          {
             path: 'tree',
             title: 'Tree 树',
+          },
+          {
+            path: 'editable',
+            title: 'Editable 可编辑元素',
           },
         ],
       },
